@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-###### <i>"Google’s self-driving cars and robots get a lot of press, but the company’s real future is in machine learning, the technology that enables computers to get smarter and more personal"</i> - Eric Schmidt (Google Chairman)
+###### <i>"Google’s self-driving cars and robots get a lot of press, but the company’s real future is in machine learning, the technology that enables computers to get smarter and more personal"</i> - <b>Eric Schmidt (Google Chairman)</b>
 
 #
 
