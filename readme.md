@@ -17,7 +17,7 @@ For all these techniques, the following order was maintained:
 
 #
 # Code Environment
-You need use jupyter notebook and venv for run all of implementations.
+You need use **jupyter notebook** and **venv** for run all of implementations.
 - jupyter notebook (_terminal_)
 #
 <p align="center"><b>Sincerely:</b> <a href="https://github.com/neemiasbsilva">Neemias B. Silva</a></p>
