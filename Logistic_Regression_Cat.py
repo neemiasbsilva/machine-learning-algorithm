@@ -65,7 +65,7 @@ def predict(X, theta):
     return np.round(h(X, theta))
 
 
-initial_theta = np.zeros(n+1)
+initial_theta = np.ones(n+1)
 
 # Compute and display initial cost and gradient.
 cost = cost_function(initial_theta, X, Y)
@@ -74,8 +74,11 @@ print("Cost at initial theta (zeros): {}".format(cost))
 # print("Expected cost (approx): 0.693")
 print("Gradient at initial theta (zeros):")
 print(grad)
-
-prob = sigmoid(X[0]).dot(initial_theta)
+it = 0
+for i in X:
+    prob = sigmoid(i).dot(initial_theta)
+    print("Predicted: {}, Truth: {}".format(prob, y[it]))
+    it += 1
 # Calculate accuracy of the algorithm on the training set.
 p = predict(X, initial_theta)
 
