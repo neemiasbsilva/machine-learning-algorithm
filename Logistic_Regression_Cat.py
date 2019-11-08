@@ -74,8 +74,6 @@ print("Cost at initial theta (zeros): {}".format(cost))
 # print("Expected cost (approx): 0.693")
 print("Gradient at initial theta (zeros):")
 print(grad)
-print("Expected gradient (approx):\n[-0.1000, -12.0092, -11.2628]")
-
 
 prob = sigmoid(X[0]).dot(initial_theta)
 # Calculate accuracy of the algorithm on the training set.
