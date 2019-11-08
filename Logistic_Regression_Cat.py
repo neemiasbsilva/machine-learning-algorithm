@@ -65,7 +65,7 @@ def predict(X, theta):
     return np.round(h(X, theta))
 
 
-initial_theta = np.ones(n+1)
+initial_theta = np.zeros(n+1)
 
 # Compute and display initial cost and gradient.
 cost = cost_function(initial_theta, X, Y)
