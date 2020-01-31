@@ -4,7 +4,26 @@
 
 
 
-# Implementation Details
+# 
+
+<p style="font-size: 18px;" align="justify">This repository is defined in two folder basically. The folder represents the subarea of machine learning that is <b>supervised learning</b>, and <b>unsupervised learning</b>.</p>
+
+<p style="font-size:14px;"> Bellow, I describe the files of the each folder, in other wold the supervised and unsupervised learning algorithm's.</p> 
+
+<p style="font-size:14px;"><b>Supervised Learning</b></p>
+
+<ul>
+    <li><a href="supervised-learning/Linear\ Regression.ipynb">Linear Regression</a>;</li>
+    <li><a href="supervised-learning/Logistic\ Regression.ipynb">Logistic Regression</a>;</li>
+    <li><a href="supervised-learning/Logistic_Regression_Cat.py">Logistic Regression applied to Cat Dataset </a>;</li>
+    <li><a href="supervised-learning/neural-networks/XOR_Neural_Network.ipynb">XOR gates Using NN</a>;</li>
+    <li><a href="supervised-learning/neural-networks/Neural_Netwokr_Cat_NotCat.ipynb">Neural Network applied to Cat Dataset </a>.</li>
+</ul>
+
+#
+
+# The order for Prepare the Dataset's to Train and Evaluate
+
 For all these techniques, the following order was maintained:
 
 1. Collecting Data
