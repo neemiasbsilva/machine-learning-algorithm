@@ -32,7 +32,7 @@ For all these techniques, the following order was maintained:
 4. Test & Train
 5. Accuracy Check
 # 
-<p aling="justify">This repository was created for shown some algorithms of machine learning. It's <b>important</b> you have a high-leve Python to understanding of various machine learning algorithms. These should be sufficient to get your hands dirty. </p>
+<p aling="justify">This repository was created for shown some algorithms of machine learning. It's <b>important</b> you have a <b>High-Level</b> Python to understanding of various machine learning algorithms. These should be sufficient to get your hands dirty. </p>
 
 #
 # Code Environment
