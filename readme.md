@@ -21,6 +21,8 @@
     <li><a href="supervised-learning/neural-networks/Neural_Netwokr_Cat_NotCat.ipynb">Neural Network applied to Cat Dataset </a>.</li>
 </ul>
 
+<p style="font-size:14px;"><b>Unsupervised Learning:</b></p>
+
 #
 
 # The order for Prepare the Dataset's to Train and Evaluate
