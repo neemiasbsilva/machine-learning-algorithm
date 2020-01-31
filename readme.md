@@ -26,7 +26,7 @@
 <ul>
     <li><a href="unsupervised-learning/PCA_titanic_dataset.ipynb">Apply PCA Techniques to Titanic Dataset</a>;</li>
     <li><a href="unsupervised-learning/k-means-segmentation-image.ipynb">Using K-means Clustering to Image Segmentation</a>.</li>
-<ul>
+</ul>
 
 #
 
