@@ -10,7 +10,7 @@
 
 <p style="font-size:14px;"> Bellow, I describe the files of the each folder, in other wold the supervised and unsupervised learning algorithm's.</p> 
 
-<p style="font-size:14px;"><b>Supervised Learning:</b></p>
+# <p style="font-size:14px;"><b>Supervised Learning:</b></p>
 
 <ul>
     <li><a href="supervised-learning/Linear\ Regression.ipynb">Linear Regression</a>;</li>
@@ -21,7 +21,7 @@
     <li><a href="supervised-learning/neural-networks/Neural_Netwokr_Cat_NotCat.ipynb">Neural Network applied to Cat Dataset </a>.</li>
 </ul>
 
-<p style="font-size:14px;"><b>Unsupervised Learning:</b></p>
+# <p style="font-size:14px;"><b>Unsupervised Learning:</b></p>
 
 <ul>
     <li><a href="unsupervised-learning/PCA_titanic_dataset.ipynb">Apply PCA Techniques to Titanic Dataset</a>;</li>
