@@ -23,6 +23,11 @@
 
 <p style="font-size:14px;"><b>Unsupervised Learning:</b></p>
 
+<ul>
+    <li><a href="unsupervised-learning/PCA_titanic_dataset.ipynb">Apply PCA Techniques to Titanic Dataset</a>;</li>
+    <li><a href="unsupervised-learning/k-means-segmentation-image.ipynb">Using K-means Clustering to Image Segmentation</a>.</li>
+<ul>
+
 #
 
 # The order for Prepare the Dataset's to Train and Evaluate
