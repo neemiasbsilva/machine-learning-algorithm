@@ -10,7 +10,7 @@
 
 <p style="font-size:14px;"> Bellow, I describe the files of the each folder, in other wold the supervised and unsupervised learning algorithm's.</p> 
 
-<p style="font-size:14px;"><b>Supervised Learning</b></p>
+<p style="font-size:14px;"><b>Supervised Learning:</b></p>
 
 <ul>
     <li><a href="supervised-learning/Linear\ Regression.ipynb">Linear Regression</a>;</li>
