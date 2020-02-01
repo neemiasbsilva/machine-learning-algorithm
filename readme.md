@@ -18,7 +18,8 @@
     <li><a href="supervised-learning/Logistic_Regression_Cat.py">Logistic Regression applied to Cat Dataset </a>;</li>
     <li><a href="supervised-learning/random-forest-mnist.ipynb">Random Forest applied to Mnist Dataset</a>;</li>
     <li><a href="supervised-learning/neural-networks/XOR_Neural_Network.ipynb">XOR gates Using NN</a>;</li>
-    <li><a href="supervised-learning/neural-networks/Neural_Netwokr_Cat_NotCat.ipynb">Neural Network applied to Cat Dataset </a>.</li>
+    <li><a href="supervised-learning/neural-networks/Neural_Netwokr_Cat_NotCat.ipynb">Neural Network applied to Cat Dataset </a>;</li>
+    <li><a href="supervised-learning/deep-neural-networks/Deep_Learning_Titanic.ipynb">Deep Learning Apply to Titanic Dataset</a>.</li>
 </ul>
 
 # <p style="font-size:14px;"><b>Unsupervised Learning:</b></p>
