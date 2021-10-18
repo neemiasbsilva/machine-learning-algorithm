@@ -1,6 +1,10 @@
-# Machine Learning Algorithms Tutorial
 
-[![Keras](https://img.shields.io/pypi/format/Keras)](https://travis-ci.org/keras-team/keras) [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/)
+[![Scikit Learn][scikit-learn-shield]][scikit-learn-url]
+[![TensorFlow][tensorflow-shield]][tensorflow-url]
+[![Keras][keras-shield]][keras-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 ###### <i>"Google’s self-driving cars and robots get a lot of press, but the company’s real future is in machine learning, the technology that enables computers to get smarter and more personal"</i> - <b>Eric Schmidt (Google Chairman)</b>
 
@@ -59,3 +63,16 @@ To use some algorithms, like Deep Learning applied to coin brazillians, you need
 #
 
 <p align="center"><b>Sincerely:</b> <a href="https://github.com/neemiasbsilva">Neemias B. Silva</a></p>
+
+
+[license-shield]: https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge
+[license-url]: https://github.com/neemiasbsilva/mlops-with-tensorflow-extends/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/neemias-bucéli-1836abb8/
+[tensorflow-shield]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[tensorflow-url]: http://tensorflow.org/
+[keras-shield]: https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white
+[keras-url]: https://www.tensorflow.org/guide/keras?hl=pt-br
+[scikit-learn-shield]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-learn-url]: https://scikit-learn.org/stable/
+[tfx-libraries]: reports/figures/tfx-components.png
