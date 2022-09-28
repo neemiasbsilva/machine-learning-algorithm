@@ -1,7 +1,7 @@
 # Case Study: The Iris Dataset
 
 Iris dataset consists of three different types of irises (Setosa, Versicolour, and Virginica) petal and sepal leghth, 
-and its available in the [[1]](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
+and is available in [[1]](https://scikit-learn.org/stable/about.html#citing-scikit-learn). For more information, please check [[2]](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 
 - [About](#about);
