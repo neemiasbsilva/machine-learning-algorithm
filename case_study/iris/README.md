@@ -24,5 +24,6 @@ got 150 observations (samples) an we use their features. The features can be des
 ## Reference
 
 [1] - Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
-[1] - Wikipedia contributors. "Iris flower data set." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 8 Aug. 2022. Web. 28 Sep. 2022.
+
+[2] - Wikipedia contributors. "Iris flower data set." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 8 Aug. 2022. Web. 28 Sep. 2022.
 
