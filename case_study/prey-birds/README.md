@@ -8,7 +8,7 @@ the dataset, please check the image below.
 
 
 <p align="center">
-<img src="class_distribution.png" width="100%" height="100%"></p>
+<img src="class_distribution.png" width="500%" height="50%"></p>
 <h6 align="center"> Class distribution.</h6>
 
 # Result
